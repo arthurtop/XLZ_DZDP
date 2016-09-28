@@ -1,0 +1,17 @@
+platform :ios, ‘9.0’
+
+source 'https://github.com/146BC/Specs.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target ‘XLZ_DZDingPing’ do
+
+use_frameworks!
+pod ‘Alamofire’
+pod ’SwiftyJSON’
+
+
+end
+
+
+ 
